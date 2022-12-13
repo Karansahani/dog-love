@@ -1,0 +1,110 @@
+.navbar-brand {
+  font-family: "Sacramento", cursive;
+}
+#title {
+  background-color: #17738a;
+  height: auto;
+}
+.container {
+  padding: 3% 15;
+}
+
+.navbar-nav {
+  margin: auto;
+}
+.navbar {
+  padding-top: 20px;
+}
+.navbar-brand {
+  font-size: 2em;
+}
+.fa-heart {
+  color: crimson;
+}
+
+.text {
+  font-family: "Righteous", cursive;
+  font-size: 4em;
+  text-align: center;
+  padding-right: 50px;
+  margin-top: 100px;
+}
+.btn {
+  margin: 25px 35px;
+  text-align: center;
+}
+.image {
+  transform: rotate(25deg);
+  width: 80%;
+  padding-left: 150px;
+  padding-bottom: 80px;
+}
+h3 {
+  font-family: "Righteous", cursive;
+  font-size: 3em;
+  margin-top: 20px;
+}
+#features {
+  margin: 5% 10%;
+  text-align: center;
+}
+#icon {
+  color: rgb(194, 104, 20);
+}
+#icon:hover {
+  color: rgba(136, 47, 177, 0.753);
+}
+#testimonials {
+  background-color: rgb(1, 56, 82);
+  text-align: center;
+}
+.t-image {
+  border-radius: 100%;
+  width: 20%;
+  padding-right: 30px;
+  margin-top: 50px;
+}
+h2 {
+  font-family: "Righteous", cursive;
+  font-size: 3em;
+  color: rgb(39, 153, 147);
+}
+.carousel-item {
+  padding: 3% 15%;
+}
+
+#press {
+  background-color: rgb(1, 56, 82);
+  text-align: center;
+  padding: 3% 5% 7%;
+}
+.p-image {
+  margin: 2% 3% 3%;
+  width: 15%;
+}
+em {
+  color: chartreuse;
+}
+
+#pricing {
+  text-align: center;
+  padding: 3%;
+  margin-top: 3%;
+}
+
+#cta{
+  background-color: coral;
+  text-align: center;
+  padding: 3% 15%;
+}
+
+
+#footer{
+  text-align: center;
+  padding: 5% 15%;
+}
+
+.fcion{
+ margin: 2% 3%;
+
+}
